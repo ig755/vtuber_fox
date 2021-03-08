@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "foxtubersdk4.moc3",
+		"Textures": [
+			"foxtubersdk4.1024/texture_00.png"
+		],
+		"DisplayInfo": "foxtubersdk4.cdi3.json"
+	}
+}
